@@ -27,7 +27,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <javac.version>9+181-r4173-1</javac.version>
   </properties>
- <!--
+
   <build>
     <plugins>
       <plugin>
@@ -75,7 +75,6 @@
       </build>
     </profile>
   </profiles>
-  -->
   
   <dependencies>
     <!-- Lombok for compile-time code generation -->
